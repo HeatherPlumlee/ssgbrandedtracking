@@ -1,0 +1,72 @@
+<!DOCTYPE html>  
+<html>  
+<head>  
+    <title></title>  
+    <meta charset="utf-8" />  
+    <style>  
+        table, th, td {  
+    border: 1px solid black;  
+}  
+    </style>  
+</head>  
+<body>  
+       <br />  
+    <table width="50%">  
+        <tr>  
+            <td align="center" style="background-color:green">  
+                <span style="font-size:25px;">   Salon Services Group  </span>  
+                <br />  
+                <br />  
+            </td>  
+              
+        </tr>  
+          
+        <tr align="center">  
+            <td>  
+                <br />  
+                <br />  
+                Dear Customer  
+                <br />  
+                <br />  
+               Thank you for your order.  
+                <br />  
+                <a href="https://linkprotect.cudasvc.com/url?a=http%3a%2f%2fwww.salonservicegroup.com&c=E,1,A9n99IPUIq_o9BWvwpEeXi9t1H-VECgD_zqTUneCvLY3BNEiFjrdI6ptskZ4IYEcjwpLEYX0hrynUn6OUxM5nsQ8Yhki6yEvWFCz9CoV0iSU1BrUgXqwckg,&typo=1">  
+                    Click here to Login  
+                </a>  
+  
+                <br />
+				Tracking Number: [TrackNum]
+                <br />  
+                <br />
+				ArrivalDate [ArriveMonth]/[ArriveDay]/[ArriveYear]
+                <br />  
+                <br />
+				Service Name [ServiceName]
+                <br />  	
+                <br />
+				Shipping Address [City]/[PostalCode]/[StateProvince]
+                <br />  
+                <br />
+				Sent To [Contact]/[Company]
+                <br />  
+                <br />
+				Reference1234 [MiscReference1]/[MiscReference2]/[MiscReference3]/[MiscReference4]
+                <br />  
+           </td>  
+            </tr>  
+<tr>  
+            <td align="center" style="background-color:green">  
+                <br />  
+                <br />  
+                <span style="font-size:15px;text-decoration:underline">   Salon Service Group   </span>  
+                <br />  
+            </td>  
+  
+        </tr>  
+  
+    </tr>  
+          
+  
+    </table>  
+</body>  
+</html>
