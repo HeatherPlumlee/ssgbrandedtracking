@@ -1,0 +1,137 @@
+<!DOCTYPE html>  
+<html>  
+<head>  
+    <title></title>  
+    <meta charset="utf-8"/>  
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style>
+    #rcorners {
+        border-radius: 25px;
+    }
+p.one {
+  border: 1px solid white;
+  padding: 25px 25px 25px 25px;
+  background-color: #8DC63F;
+  text-align: center;    
+  font-size:25px;color:white;
+}
+
+p.two {
+  border: 1px solid black;
+  padding: 25px 25px 25px 25px;
+  background-color: #131A08;
+  text-align: center;    
+  font-size:15px;color:white;text-decoration:underline;
+}
+    
+* {
+  box-sizing: border-box;
+
+table, th, td {  
+    border: 1px solid black;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Style the header */
+header {
+  background-color: #666;
+  padding: 30px;
+  text-align: center;
+  font-size: 35px;
+  color: white;
+
+article {
+  float: left;
+  padding: 20px;
+  width: 70%;
+  background-color: #f1f1f1;
+  height: 300px; /* only for demonstration, should be removed */
+}
+
+/* Clear floats after the columns */
+section::after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Style the footer */
+footer {
+  background-color: #777;
+  padding: 10px;
+  text-align: center;
+  color: white;
+}
+
+/* Responsive layout - makes the two columns/boxes stack on top of each other instead of next to each other, on small screens */
+@media (max-width: 600px) {
+  nav, article {
+    width: 100%;
+    height: auto;
+  }
+}
+</style>
+  
+</head>  
+<body>  
+       <br />  
+    <table width="50%">  
+        <tr>  
+            <td> 
+                <p class="one" id="rcorners">Salon Services Group</p> 
+                <br />  
+            </td>  
+              
+        </tr>  
+          
+        <tr align="center">  
+            <td>  
+                <br />    
+                Dear Customer  
+                <br />  
+                <br />  
+               Thank you for your order!  
+                <br/>  
+                <a href="https://linkprotect.cudasvc.com/url?a=http%3a%2f%2fwww.salonservicegroup.com&c=E,1,A9n99IPUIq_o9BWvwpEeXi9t1H-VECgD_zqTUneCvLY3BNEiFjrdI6ptskZ4IYEcjwpLEYX0hrynUn6OUxM5nsQ8Yhki6yEvWFCz9CoV0iSU1BrUgXqwckg,&typo=1">  
+                    Click here to Login  
+                </a>  
+  
+                <br />
+				Tracking Number: [TrackNum]
+                <br />  
+                <br />
+				ArrivalDate [ArriveMonth]/[ArriveDay]/[ArriveYear]
+                <br />  
+                <br />
+				Service Name [ServiceName]
+                <br />  	
+                <br />
+				Shipping Address [City]/[PostalCode]/[StateProvince]
+                <br />  
+                <br />
+				Sent To [Contact]/[Company]
+                <br />  
+                <br />
+				Reference1234 [MiscReference1]/[MiscReference2]/[MiscReference3]/[MiscReference4]
+                <br />  
+           </td>  
+            </tr>  
+<tr>  
+            <td align="center">  
+                <br/>  
+ 
+                <p class="two">Salon Service Group</p>  
+                <br/>  
+            </td>  
+  
+        </tr>  
+  
+    </tr>  
+          
+  
+    </table>  
+</body>  
+</html>
