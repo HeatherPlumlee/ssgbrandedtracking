@@ -1,0 +1,78 @@
+<!DOCTYPE html>  
+<html lang="en">  
+    <head>  
+    <title>Salon Service Group Ship Exec</title>  
+    <meta charset="utf-8"/>  
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <style>
+    body {
+    font-family: Arial, Helvetica, sans-serif;
+        }
+        
+        /* {
+        box-sizing: border-box;
+        }
+        table, th, td {  
+        border: 1px solid black;
+        }
+
+    /* Style the header */
+    header {
+        background-color: #8DC63F;
+        padding: 5px;
+        text-align: center;
+        font-size: 35px;
+        color: white;
+        border-radius: 25px;
+        align-content: center;
+        }
+
+    /* Style the footer */
+    footer {
+        background-color: #131A08;
+        padding: 10px;
+        text-align: center;  
+        font-size:15px;color:white;
+        text-decoration:underline;
+        }
+    
+    </style>        
+    </head> 
+    
+    <body>  
+        <header>
+           <p>Salon Service Group</p> 
+        </header>  
+        
+        <h2>Dear Customer,</h2><h3>Thank you for your order!</h3>   
+        
+                <br> 
+                <a href="https://linkprotect.cudasvc.com/url?a=http%3a%2f%2fwww.salonservicegroup.com&c=E,1,A9n99IPUIq_o9BWvwpEeXi9t1H-VECgD_zqTUneCvLY3BNEiFjrdI6ptskZ4IYEcjwpLEYX0hrynUn6OUxM5nsQ8Yhki6yEvWFCz9CoV0iSU1BrUgXqwckg,&typo=1">  
+                    Click here to Login  
+                </a> 
+                <br>
+                <br>
+                Tracking Number: [TrackNum]
+                <br>
+                <br>
+                ArrivalDate [ArriveMonth]/[ArriveDay]/[ArriveYear]
+                <br>
+                <br>
+                Service Name [ServiceName]
+                <br>
+                <br>
+                Shipping Address [City]/[PostalCode]/[StateProvince]
+                <br>
+                <br>
+                Sent To [Contact]/[Company]
+                <br>
+                <br>
+                Reference1234 [MiscReference1]/[MiscReference2]/[MiscReference3]/[MiscReference4]              
+    </body> 
+
+    <footer>
+        <p>Salon Service Group</p>  
+    </footer>
+    
+</html>
